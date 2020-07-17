@@ -24,7 +24,6 @@ I'm still learning, but I really support the idea of designers leaning how to co
 
 📌 Some skills: HTML, CSS, JavaScript, Prototyping (Adobe XD), Wireframes, User Flows.
 
-<hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielagoncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielagoncalves17/)](https://www.linkedin.com/in/gabrielagoncalves17/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriela-Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielagoncalves17/)](https://www.linkedin.com/in/gabrielagoncalves17/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi.gabidigital@gmail.com)](mailto:hi.gabidigital@gmail.com)
