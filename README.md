@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 My name is Gabriela and I'm a UI/UX Designer 🤓 and Front-end Developer 🖥️ since 2019.
 
-I'm still learning and I really support the idea of designers leaning how to code and developers learning how to design.
+I'm still learning and I really support the idea of designers learning how to code and developers learning how to design.
 
 📌 **Some skills:** HTML, CSS, JavaScript, Prototyping (Adobe XD), Wireframes, User Flows.
 
