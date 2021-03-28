@@ -22,7 +22,7 @@ My name is Gabriela and I'm a UI/UX Designer 🤓 and Front-end Developer 🖥�
 
 I'm still learning and I really support the idea of designers learning how to code and developers learning how to design.
 
-📌 **Some skills:** HTML, CSS, JavaScript, Prototyping (Adobe XD), Wireframes, User Flows.
+📌 **Some skills:** HTML, CSS, JavaScript, ReactJs, Git, GitHub, Prototyping (Adobe XD), Wireframes, User Flows.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielaGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielagoncalves17/)](https://www.linkedin.com/in/gabrielagoncalves17/)
